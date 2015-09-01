@@ -79,7 +79,7 @@ in my external link sections.  :)
   * [Debugging](#debugging)
   * [Cross-platform support](#cross-platform-support)
   * [Databases and data stores](#databases-and-data-stores)
-  * [Hot code loadng](#hot-code-loading)
+  * [Hot code loading](#hot-code-loading)
   * [IDE support](#ide-support)
 
 # Application Domains
